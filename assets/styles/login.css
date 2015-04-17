@@ -1,11 +1,18 @@
-center{
-
-	margin-top: 10em;
-	
+.my-pure-form{
+	background-color: #ddd;
+	border-radius: .25em;
+	padding: 1em;
 }
 
-.my-login-form{
-	background-color: #DDD;
-	background-size: cover;
-
+.my-pure-g{
+	margin-top: 5em;
 }
+
+.my-h1{
+	margin-top: 2em;
+	text-align: center;
+	font-size: 3em;
+	color: #ddd;
+}
+
+

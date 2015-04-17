@@ -40,6 +40,11 @@ module.exports.routes = {
   '/login' :{
     view: 'rktel/login'
     
+  },
+
+  '/gis' :{
+    view: 'rktel/gis'
+    
   }
 
   /***************************************************************************
